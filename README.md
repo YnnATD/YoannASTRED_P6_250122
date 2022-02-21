@@ -13,6 +13,7 @@ Démarrer le serveur sur le dossier backend.
 ```sh
 cd back-end
 npm run dev
+ou
 npm start
 ```
 Démarrer le front-end sur le localhost
