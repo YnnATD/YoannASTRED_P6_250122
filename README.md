@@ -20,7 +20,8 @@ npm run dev
 ou
 npm start
 ```
-Démarrer le front-end sur le localhost depuis votre navigateur
+Démarrer le front-end sur le serveur de développement local
+(sur VScode avec l'extension LiveServer)
 
 exemple :
 
