@@ -1,6 +1,6 @@
 # The Hottest Reviews
 
-[![N|Solid](https://www.pngplay.com/wp-content/uploads/12/Sauce-PNG-Clipart-Background.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://www.clipartmax.com/png/full/33-330167_awesome-sauce-clipart-hot-sauce-with-transparent.png)](https://nodesource.com/products/nsolid)
 
 Projet basé sur la création du backend pour un site de critiques de sauces piquantes.
 
@@ -15,4 +15,6 @@ cd back-end
 npm run dev
 npm start
 ```
+Démarrer le front-end sur le localhost
+
 ## Bonne visite!
