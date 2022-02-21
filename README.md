@@ -2,7 +2,10 @@
 
 [![N|Solid](https://www.clipartmax.com/png/full/33-330167_awesome-sauce-clipart-hot-sauce-with-transparent.png)](https://nodesource.com/products/nsolid)
 
+## Introduction
+
 Projet basé sur la création du backend pour un site de critiques de sauces piquantes.
+L'application utilise la bibliothèque Mongoose pour créer la connexion avec la base de donnée sur MongoDB
 
 ## Installation
 
