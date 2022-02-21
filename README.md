@@ -1,5 +1,7 @@
 # The Hottest Reviews
 
+[(https://www.pngplay.com/wp-content/uploads/12/Sauce-PNG-Clipart-Background.png)]
+
 Projet basé sur la création du backend pour un site de critiques de sauces piquantes.
 
 ## Installation
