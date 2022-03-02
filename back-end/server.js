@@ -5,9 +5,6 @@ const path = require('path');
 const mongoose = require('mongoose')
 const checkTokenMiddleware = require('./jsonwebtoken/check')
 
-// import de connexion a la DB
-// let DB = require('./db.config')
-
 //initialisation API
 const app = express()
 
@@ -22,7 +19,6 @@ const sauce_router = require('./routes/sauces')
 const auth_router = require('./routes/auth')
 
 //mise en place routage
-
 
 app.use('/api/sauces',checkTokenMiddleware, sauce_router)
 
