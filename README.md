@@ -13,10 +13,10 @@ Tout d'abord cloner ce repository puis ouvrez le dans VisualStudioCode
 
 HOT TAKES a besoin de [Node.js](https://nodejs.org/) v17 pour fonctionner.
 
-exécutez :
+exécutez la commande suivante dans le terminal  :
 
 ```sh
-npm install
+npm instal node
 ```
 
 Démarrer le serveur sur le dossier backend.
